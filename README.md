@@ -19,10 +19,11 @@
   <img aling="center" alt="Well-Oracle" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
   <img aling="center" alt="Well-postgre" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
   <img aling="center" alt="Well-MySQL" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img aling="center" alt="Well-Csharp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img aling="center" alt="Well-.Net" height="60" width="70" src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=128&color=ffffff">
+  <img aling="center" alt="Well-Git" height="60" width="70" src="https://icongr.am/devicon/git-original.svg?size=131&color=c8b014">
   <br>
 </div>
-<!--
+<!-- uso com badges
 <div style="display: inline_block">
 <br/>
     <img aling="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>

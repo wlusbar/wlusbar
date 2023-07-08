@@ -1,13 +1,17 @@
 
 <h1 aling="left">👋 &nbsp; Hi <img height="30px">, I'm Wellington</h1>
 
+ <!---🔭 I’m currently working at [Empresa](Link daEmpresa)
+- 💬 Ask me about **Java, Spring Boot, SQL**
+- 👨‍💻 More at [wellington.dev](https://wellington.dev)-->
+
 ## 📊 &nbsp; GitHub Analytics
 <p style="display: inline_block">
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=wlusbar&show_icons=true&theme=dracula"/>
 <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula"/>
 </p>
 
-## Tech Stack
+## 🛠 &nbsp;Tech Stack
 <div style="display: inline_block">
 <br/>
     <img aling="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -19,11 +23,10 @@
     <img aling="center" alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
 </div>
 
-
 ## Contact
 [![Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellingtonluizsb/)
 <!--[![Profile](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5531993862869&text=Ol%C3%A1!!!)
 [![Profile](https://img.shields.io/badge/Wellington-05122A?style=flat&logo=instagram)](https://www.instagram.com/wellingtonbarbosa5205/)
 -->
-Desenvolvedor apaixonado por tecnologia.
+<p aling="left">Desenvolvedor apaixonado por tecnologia.</p>
 

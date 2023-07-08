@@ -7,11 +7,22 @@
 
 ## 📊 &nbsp; GitHub Analytics
 <p style="display: inline_block">
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=wlusbar&show_icons=true&theme=dracula"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=wlusbar&show_icons=true&theme=dracula&include_all_commits=true"/>
 <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula"/>
 </p>
 
 ## 🛠 &nbsp;Tech Stack
+<div style="display: inline_block">
+  <img aling="center" alt="Rafa-Js" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img aling="center" alt="Rafa-Ts" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
+  <img aling="center" alt="Rafa-React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+  <img aling="center" alt="Rafa-HTML" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
+  <img aling="center" alt="Rafa-CSS" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
+  <img aling="center" alt="Rafa-Python" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img aling="center" alt="Rafa-Csharp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <br>
+</div>
+<!--
 <div style="display: inline_block">
 <br/>
     <img aling="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -21,12 +32,12 @@
      <img aling="center" alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
      <img aling="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img aling="center" alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-</div>
+</div>-->
 
 ## Contact
 [![Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellingtonluizsb/)
 <!--[![Profile](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5531993862869&text=Ol%C3%A1!!!)
 [![Profile](https://img.shields.io/badge/Wellington-05122A?style=flat&logo=instagram)](https://www.instagram.com/wellingtonbarbosa5205/)
 -->
-<p aling="left">Desenvolvedor apaixonado por tecnologia.</p>
+<p aling="left">Developer passionate about technology.</p>
 

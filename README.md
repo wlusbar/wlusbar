@@ -11,7 +11,7 @@
 <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula"/>
 </p>
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Skills
 <div style="display: inline_block">
   <img aling="center" alt="Well-Java" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img aling="center" alt="Well-Angular" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">

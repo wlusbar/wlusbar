@@ -5,7 +5,7 @@
 <li>💬 Ask me about **Java, Spring Boot, SQL**</li>
 <!-- - 👨‍💻 More at [wellington.dev](https://wellington.dev) -->
 
-<li aling="left">🎓 Graduated in information systems. I have experience in the Backend Java area, an enthusiastic student of Front End, I always seek to acquire and improve my knowledge, learning new languages ​​and market trends. I try to be in a good mood and be agile, have responsibility and determination, always looking for better results. I seek to be collaborative and add knowledge to the team.</li>
+<li aling="left">🎓 Graduated in Information Systems. I have experience in the Backend Java area, an enthusiastic student of Front End, I always seek to acquire and improve my knowledge, learning new languages ​​and market trends. I try to be in a good mood and be agile, have responsibility and determination, always looking for better results. I seek to be collaborative and add knowledge to the team.</li>
 
 ## 🛠 &nbsp;Skills
 <div style="display: inline_block">

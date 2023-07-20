@@ -1,7 +1,7 @@
 
 <h1 aling="left">👋 &nbsp; Hi <img height="30px">, I'm Wellington</h1>
 
- <li>🔭  I’m self-employed. <!-- I’m currently working at [Empresa](Link daEmpresa)--></li>
+ <li>🔭  I’m currently self-employed. <!-- I’m currently working at [Empresa](Link daEmpresa)--></li>
 <li>💬 Ask me about **Java, Spring Boot, SQL**</li>
 <!-- - 👨‍💻 More at [wellington.dev](https://wellington.dev) -->
 
